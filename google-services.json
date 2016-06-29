@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "301228671803",
+    "firebase_url": "https://gymglish-cd70b.firebaseio.com",
+    "project_id": "gymglish-cd70b",
+    "storage_bucket": "gymglish-cd70b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301228671803:android:d117a081f653b9c0",
+        "android_client_info": {
+          "package_name": "co.gymglishproject.mobile.gymglishproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301228671803-tab8utafs2utnbd4uv44bkv36uhtllva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWnSdGiljKHfteS5sRcG-rNLMavUSZLP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
